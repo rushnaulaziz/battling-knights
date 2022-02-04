@@ -8,5 +8,5 @@ class Item:
     attack: int
     defence: int
     equipped: bool = False
-    
+
     
